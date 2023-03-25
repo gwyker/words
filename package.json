@@ -1,0 +1,19 @@
+{
+  "name": "fishes",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "noisejs": "^2.1.0",
+    "three": "^0.150.1",
+    "three.interactive": "^1.6.1"
+  }
+}
